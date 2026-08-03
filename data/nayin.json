@@ -1,0 +1,452 @@
+[
+  {
+    "hanzi": "海中金",
+    "pinyin": "hǎi zhōng jīn",
+    "english": "Gold in the Sea",
+    "element": "金",
+    "element_en": "Metal",
+    "ganzhi": [
+      "甲子",
+      "乙丑"
+    ],
+    "ganzhi_pinyin": [
+      "jiǎ zǐ",
+      "yǐ chǒu"
+    ]
+  },
+  {
+    "hanzi": "炉中火",
+    "pinyin": "lú zhōng huǒ",
+    "english": "Fire in the Furnace",
+    "element": "火",
+    "element_en": "Fire",
+    "ganzhi": [
+      "丙寅",
+      "丁卯"
+    ],
+    "ganzhi_pinyin": [
+      "bǐng yín",
+      "dīng mǎo"
+    ]
+  },
+  {
+    "hanzi": "大林木",
+    "pinyin": "dà lín mù",
+    "english": "Great Forest Wood",
+    "element": "木",
+    "element_en": "Wood",
+    "ganzhi": [
+      "戊辰",
+      "己巳"
+    ],
+    "ganzhi_pinyin": [
+      "wù chén",
+      "jǐ sì"
+    ]
+  },
+  {
+    "hanzi": "路旁土",
+    "pinyin": "lù páng tǔ",
+    "english": "Roadside Earth",
+    "element": "土",
+    "element_en": "Earth",
+    "ganzhi": [
+      "庚午",
+      "辛未"
+    ],
+    "ganzhi_pinyin": [
+      "gēng wǔ",
+      "xīn wèi"
+    ]
+  },
+  {
+    "hanzi": "剑锋金",
+    "pinyin": "jiàn fēng jīn",
+    "english": "Sword-Edge Metal",
+    "element": "金",
+    "element_en": "Metal",
+    "ganzhi": [
+      "壬申",
+      "癸酉"
+    ],
+    "ganzhi_pinyin": [
+      "rén shēn",
+      "guǐ yǒu"
+    ]
+  },
+  {
+    "hanzi": "山头火",
+    "pinyin": "shān tóu huǒ",
+    "english": "Hilltop Fire",
+    "element": "火",
+    "element_en": "Fire",
+    "ganzhi": [
+      "甲戌",
+      "乙亥"
+    ],
+    "ganzhi_pinyin": [
+      "jiǎ xū",
+      "yǐ hài"
+    ]
+  },
+  {
+    "hanzi": "涧下水",
+    "pinyin": "jiàn xià shuǐ",
+    "english": "Water in the Ravine",
+    "element": "水",
+    "element_en": "Water",
+    "ganzhi": [
+      "丙子",
+      "丁丑"
+    ],
+    "ganzhi_pinyin": [
+      "bǐng zǐ",
+      "dīng chǒu"
+    ]
+  },
+  {
+    "hanzi": "城头土",
+    "pinyin": "chéng tóu tǔ",
+    "english": "City Wall Earth",
+    "element": "土",
+    "element_en": "Earth",
+    "ganzhi": [
+      "戊寅",
+      "己卯"
+    ],
+    "ganzhi_pinyin": [
+      "wù yín",
+      "jǐ mǎo"
+    ]
+  },
+  {
+    "hanzi": "白蜡金",
+    "pinyin": "bái là jīn",
+    "english": "White Wax Metal",
+    "element": "金",
+    "element_en": "Metal",
+    "ganzhi": [
+      "庚辰",
+      "辛巳"
+    ],
+    "ganzhi_pinyin": [
+      "gēng chén",
+      "xīn sì"
+    ]
+  },
+  {
+    "hanzi": "杨柳木",
+    "pinyin": "yáng liǔ mù",
+    "english": "Willow Wood",
+    "element": "木",
+    "element_en": "Wood",
+    "ganzhi": [
+      "壬午",
+      "癸未"
+    ],
+    "ganzhi_pinyin": [
+      "rén wǔ",
+      "guǐ wèi"
+    ]
+  },
+  {
+    "hanzi": "泉中水",
+    "pinyin": "quán zhōng shuǐ",
+    "english": "Water in the Spring",
+    "element": "水",
+    "element_en": "Water",
+    "ganzhi": [
+      "甲申",
+      "乙酉"
+    ],
+    "ganzhi_pinyin": [
+      "jiǎ shēn",
+      "yǐ yǒu"
+    ]
+  },
+  {
+    "hanzi": "屋上土",
+    "pinyin": "wū shàng tǔ",
+    "english": "Rooftop Earth",
+    "element": "土",
+    "element_en": "Earth",
+    "ganzhi": [
+      "丙戌",
+      "丁亥"
+    ],
+    "ganzhi_pinyin": [
+      "bǐng xū",
+      "dīng hài"
+    ]
+  },
+  {
+    "hanzi": "霹雳火",
+    "pinyin": "pī lì huǒ",
+    "english": "Thunderbolt Fire",
+    "element": "火",
+    "element_en": "Fire",
+    "ganzhi": [
+      "戊子",
+      "己丑"
+    ],
+    "ganzhi_pinyin": [
+      "wù zǐ",
+      "jǐ chǒu"
+    ]
+  },
+  {
+    "hanzi": "松柏木",
+    "pinyin": "sōng bǎi mù",
+    "english": "Pine and Cypress Wood",
+    "element": "木",
+    "element_en": "Wood",
+    "ganzhi": [
+      "庚寅",
+      "辛卯"
+    ],
+    "ganzhi_pinyin": [
+      "gēng yín",
+      "xīn mǎo"
+    ]
+  },
+  {
+    "hanzi": "长流水",
+    "pinyin": "cháng liú shuǐ",
+    "english": "Long-Flowing Water",
+    "element": "水",
+    "element_en": "Water",
+    "ganzhi": [
+      "壬辰",
+      "癸巳"
+    ],
+    "ganzhi_pinyin": [
+      "rén chén",
+      "guǐ sì"
+    ]
+  },
+  {
+    "hanzi": "沙中金",
+    "pinyin": "shā zhōng jīn",
+    "english": "Gold in the Sand",
+    "element": "金",
+    "element_en": "Metal",
+    "ganzhi": [
+      "甲午",
+      "乙未"
+    ],
+    "ganzhi_pinyin": [
+      "jiǎ wǔ",
+      "yǐ wèi"
+    ]
+  },
+  {
+    "hanzi": "山下火",
+    "pinyin": "shān xià huǒ",
+    "english": "Fire at the Foothill",
+    "element": "火",
+    "element_en": "Fire",
+    "ganzhi": [
+      "丙申",
+      "丁酉"
+    ],
+    "ganzhi_pinyin": [
+      "bǐng shēn",
+      "dīng yǒu"
+    ]
+  },
+  {
+    "hanzi": "平地木",
+    "pinyin": "píng dì mù",
+    "english": "Wood on Level Ground",
+    "element": "木",
+    "element_en": "Wood",
+    "ganzhi": [
+      "戊戌",
+      "己亥"
+    ],
+    "ganzhi_pinyin": [
+      "wù xū",
+      "jǐ hài"
+    ]
+  },
+  {
+    "hanzi": "壁上土",
+    "pinyin": "bì shàng tǔ",
+    "english": "Earth on the Wall",
+    "element": "土",
+    "element_en": "Earth",
+    "ganzhi": [
+      "庚子",
+      "辛丑"
+    ],
+    "ganzhi_pinyin": [
+      "gēng zǐ",
+      "xīn chǒu"
+    ]
+  },
+  {
+    "hanzi": "金箔金",
+    "pinyin": "jīn bó jīn",
+    "english": "Gold Foil Metal",
+    "element": "金",
+    "element_en": "Metal",
+    "ganzhi": [
+      "壬寅",
+      "癸卯"
+    ],
+    "ganzhi_pinyin": [
+      "rén yín",
+      "guǐ mǎo"
+    ]
+  },
+  {
+    "hanzi": "覆灯火",
+    "pinyin": "fù dēng huǒ",
+    "english": "Sheltered Lamp Fire",
+    "element": "火",
+    "element_en": "Fire",
+    "ganzhi": [
+      "甲辰",
+      "乙巳"
+    ],
+    "ganzhi_pinyin": [
+      "jiǎ chén",
+      "yǐ sì"
+    ]
+  },
+  {
+    "hanzi": "天河水",
+    "pinyin": "tiān hé shuǐ",
+    "english": "Water of the Milky Way",
+    "element": "水",
+    "element_en": "Water",
+    "ganzhi": [
+      "丙午",
+      "丁未"
+    ],
+    "ganzhi_pinyin": [
+      "bǐng wǔ",
+      "dīng wèi"
+    ]
+  },
+  {
+    "hanzi": "大驿土",
+    "pinyin": "dà yì tǔ",
+    "english": "Post-Road Earth",
+    "element": "土",
+    "element_en": "Earth",
+    "ganzhi": [
+      "戊申",
+      "己酉"
+    ],
+    "ganzhi_pinyin": [
+      "wù shēn",
+      "jǐ yǒu"
+    ]
+  },
+  {
+    "hanzi": "钗钏金",
+    "pinyin": "chāi chuàn jīn",
+    "english": "Hairpin Metal",
+    "element": "金",
+    "element_en": "Metal",
+    "ganzhi": [
+      "庚戌",
+      "辛亥"
+    ],
+    "ganzhi_pinyin": [
+      "gēng xū",
+      "xīn hài"
+    ]
+  },
+  {
+    "hanzi": "桑柘木",
+    "pinyin": "sāng zhè mù",
+    "english": "Mulberry Wood",
+    "element": "木",
+    "element_en": "Wood",
+    "ganzhi": [
+      "壬子",
+      "癸丑"
+    ],
+    "ganzhi_pinyin": [
+      "rén zǐ",
+      "guǐ chǒu"
+    ]
+  },
+  {
+    "hanzi": "大溪水",
+    "pinyin": "dà xī shuǐ",
+    "english": "Water of the Great Stream",
+    "element": "水",
+    "element_en": "Water",
+    "ganzhi": [
+      "甲寅",
+      "乙卯"
+    ],
+    "ganzhi_pinyin": [
+      "jiǎ yín",
+      "yǐ mǎo"
+    ]
+  },
+  {
+    "hanzi": "沙中土",
+    "pinyin": "shā zhōng tǔ",
+    "english": "Earth in the Sand",
+    "element": "土",
+    "element_en": "Earth",
+    "ganzhi": [
+      "丙辰",
+      "丁巳"
+    ],
+    "ganzhi_pinyin": [
+      "bǐng chén",
+      "dīng sì"
+    ]
+  },
+  {
+    "hanzi": "天上火",
+    "pinyin": "tiān shàng huǒ",
+    "english": "Fire in the Sky",
+    "element": "火",
+    "element_en": "Fire",
+    "ganzhi": [
+      "戊午",
+      "己未"
+    ],
+    "ganzhi_pinyin": [
+      "wù wǔ",
+      "jǐ wèi"
+    ]
+  },
+  {
+    "hanzi": "石榴木",
+    "pinyin": "shí liú mù",
+    "english": "Pomegranate Wood",
+    "element": "木",
+    "element_en": "Wood",
+    "ganzhi": [
+      "庚申",
+      "辛酉"
+    ],
+    "ganzhi_pinyin": [
+      "gēng shēn",
+      "xīn yǒu"
+    ]
+  },
+  {
+    "hanzi": "大海水",
+    "pinyin": "dà hǎi shuǐ",
+    "english": "Water of the Great Sea",
+    "element": "水",
+    "element_en": "Water",
+    "ganzhi": [
+      "壬戌",
+      "癸亥"
+    ],
+    "ganzhi_pinyin": [
+      "rén xū",
+      "guǐ hài"
+    ]
+  }
+]
