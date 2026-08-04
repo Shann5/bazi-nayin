@@ -65,6 +65,19 @@ Machine-readable copies live in [`data/`](data/):
 The ganzhi→nayin pairing follows the traditional sixty Jiazi order (甲子乙丑海中金 …
 壬戌癸亥大海水), cross-checked against [lunar-typescript](https://github.com/6tail/lunar-typescript).
 
+## Usage note: your input time is probably wrong
+
+A nayin lookup keys off the stem-branch (ganzhi) pillars, and the pillars key off
+the birth *time* — in solar time, not clock time. Clock time can be off by well
+over an hour once you stack historical DST rules, longitude offset from the zone's
+standard meridian (4 min/degree; Ürümqi runs ~2 h ahead of the sun), and the
+equation of time (±16 min). Near a two-hour branch boundary that's the difference
+between two different pillars, i.e. two different nayin.
+
+The calculator this dataset comes from corrects for all three. How the correction
+works, with a city-by-city table:
+**[True solar time, explained →](https://auspiceoracle.com/en/content/true-solar-time)**
+
 ## License & attribution
 
 Data and translations are **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**.
