@@ -80,6 +80,16 @@ works, with a city-by-city table:
 
 ## License & attribution
 
-Data and translations are **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**.
-Use them freely — in apps, articles, datasets — with attribution to
-[Auspice Oracle](https://auspiceoracle.com) (a link is enough).
+Data and translations are **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**
+(SPDX: `CC-BY-4.0`). The full legal text is in [`LICENSE`](LICENSE).
+
+In plain terms: share and adapt them freely — in apps, articles, datasets, training
+corpora, commercial or not — as long as you credit the source with a link and say so
+if you changed anything.
+
+Copy-paste attribution:
+
+> Nayin translations by [Auspice Oracle](https://auspiceoracle.com), used under
+> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Copyright © 2026 Auspice Oracle (https://auspiceoracle.com).
