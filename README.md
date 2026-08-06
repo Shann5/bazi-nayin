@@ -65,6 +65,11 @@ Machine-readable copies live in [`data/`](data/):
 The ganzhi→nayin pairing follows the traditional sixty Jiazi order (甲子乙丑海中金 …
 壬戌癸亥大海水), cross-checked against [lunar-typescript](https://github.com/6tail/lunar-typescript).
 
+Also mirrored on the Hugging Face Hub, if that is where you work:
+**[huggingface.co/datasets/Shann5/bazi-nayin](https://huggingface.co/datasets/Shann5/bazi-nayin)**
+(`load_dataset("Shann5/bazi-nayin")`). This repo is the source of truth — the mirror is
+generated from it, and corrections belong here as issues.
+
 ## Usage note: your input time is probably wrong
 
 A nayin lookup keys off the stem-branch (ganzhi) pillars, and the pillars key off
