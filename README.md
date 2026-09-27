@@ -87,7 +87,7 @@ word for word in the source text ([`classical/`](classical/)).
 | `relations` | the per-pillar paragraphs: `welcome`, `avoid`, `unharmed_by`, `state` + `quotes` | welcomes fire — 「遇火生旺其器乃成」 ("meeting strong fire, the vessel is made") |
 | `scale` | the *large absorbs small* rule for same-element nayin across the four pillars | Pine and Cypress Wood (large) absorbs Willow Wood (small) |
 
-**[`data/v2/matrix.json`](data/v2/matrix.json)** (+ [`.csv`](data/v2/matrix.csv), [`matrix.en.csv`](data/v2/matrix.en.csv)) — nayin × nayin, from the thirty
+**[`data/v2/matrix.json`](data/v2/matrix.json)** (+ [`.csv`](data/v2/matrix.csv), [`matrix.en.csv`](data/v2/matrix.en.csv), and [`matrix.long.csv`](data/v2/matrix.long.csv) — one row per meeting, for pandas / `datasets`) — nayin × nayin, from the thirty
 chapters that each describe one image meeting the others. Row = the image whose chapter
 it is; column = the one it meets.
 

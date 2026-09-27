@@ -59,3 +59,13 @@ with open('nayin-matrix.en.csv', 'w', newline='', encoding='utf-8') as f:
     w = csv.writer(f); w.writerow(['subject \\ meets'] + [en.name_en(n) for n in NAMES])
     for s in NAMES:
         w.writerow([en.name_en(s)] + [(grid[s][o]['verdict'] + ('' if grid[s][o]['scope'] == 'named' else '*')) if o in grid[s] else '' for o in NAMES])
+
+# 长表：一行一次相遇（HF datasets / pandas 直接读）
+with open('nayin-matrix.long.csv', 'w', newline='', encoding='utf-8') as f:
+    w = csv.writer(f)
+    w.writerow(['subject', 'subject_en', 'meets', 'meets_en', 'verdict', 'verdict_en', 'scope', 'quotes'])
+    for s in NAMES:
+        for o in NAMES:
+            if o in grid[s]:
+                c = grid[s][o]
+                w.writerow([s, en.name_en(s), o, en.name_en(o), c['verdict'], c['verdict_en'], c['scope'], ' | '.join(c['quotes'])])
