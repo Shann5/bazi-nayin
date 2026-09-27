@@ -1,0 +1,31 @@
+subject \ meets,Gold in the Sea,Gold Foil Metal,Soft Wax Metal,Gold in the Sand,Sword-Edge Metal,Hairpin and Bracelet Metal,Thunderbolt Fire,Fire in the Furnace,Sheltered Lamp Fire,Fire in the Sky,Fire at the Foothill,Hilltop Fire,Mulberry Wood,Pine and Cypress Wood,Great Forest Wood,Willow Wood,Pomegranate Wood,Tree on Open Ground,Earth on the Wall,City Wall Earth,Earth in the Sand,Roadside Earth,Great Road Earth,Rooftop Earth,Water in the Ravine,Water of the Great Stream,Long-Flowing Water,Water of the Milky Way,Water in the Spring,Water of the Great Sea
+Gold in the Sea,+,+,~,~,+,+,-,+,~,~,~,~,,,,,,,~,+,-,+,~,~,~,~,,~,~,~
+Gold Foil Metal,~,,~,~,+,+,-*,-,+,~,~,~,,,,,,+,+,+,,,,~,~,-,,~,~,~
+Soft Wax Metal,-,,,-,,,,+,,,~,,0*,0*,0*,0*,0*,0*,~*,~*,~*,~*,~*,~*,+,+,+,,+,
+Gold in the Sand,~,,~,,,,+,+,~,,~,~,~*,~*,~*,~*,~*,~*,,+,-,-,-,+,+,-,-,~,+,-
+Sword-Edge Metal,~,,-,-,+,+,+,~,,~,,,,+,-,+,,-,+,+,-*,-*,-*,-*,~,+,+,,~,+
+Hairpin and Bracelet Metal,0,+,0,0,+,,~,-,+,+,~,~,,,,,,,,,+,,,,+,+,,~,+,-
+Thunderbolt Fire,~,0,~,0,~,0,,~,+,~,,,0,~,+,0,0,+,,~,+,~,,,+,+,0,+,,+
+Fire in the Furnace,~,0,~,~,~,0,~,,~,~,,,,~,,~,,+,+,+,,,,+,~,~,~,~,~,~
+Sheltered Lamp Fire,,+,-,+,+,+,-,-,,-,,,+*,+*,+*,+*,+*,+*,+,0,~,0,0,+,+,,~,-,+,-
+Fire in the Sky,-,+,-,-,+,+,-,-,+,,,,,+,+,,+,,,+,~,+,,+,~,~,,+,~,
+Fire at the Foothill,+,,,,,,-,,+,-,,,+,+,+,,,+,,,~,,,,~,~,,~,~,~
+Hilltop Fire,,,,,,,-,-,,-,-,,+,+,+,0,0,0,0,0,+,0,0,0,+,+,,~,~,-
+Mulberry Wood,,~,,+,+,~,+,+,+,+,,,,+,~,+,~,~,0,0,+,+,+,0,~,~,~,+,~,-
+Pine and Cypress Wood,+,+,,,~,,~,-,-,-,-,-,+,+,-,-,+,~,,,,~,-,~,+,~,,+,,~
+Great Forest Wood,~,-*,-*,-*,~,-*,~,,+,~,,-,+,~,,,,~,~,,,+,,~,+,-,,+,,~
+Willow Wood,-,+,-,-,-,+,~,+,-,,,,+,+,,,~,,~,+,+,-,~,~,+,+,+,-,+,
+Pomegranate Wood,~,+,,+,-,,~,~,,~,,,+,+,+,+,,+,~,+,~,~,~,+,+,+,,+,+,-
+Tree on Open Ground,0,+,0,0,~,0,+,~,~,+,~,~,+,+,-,,,,+,+,-,+,-,+,+,~,,+,+,~
+Earth on the Wall,0,+,0,0,-,0,-,-*,-*,-,-*,-*,+*,+,~,+*,+*,+,,+,,+,,+,,,,+,+,-
+City Wall Earth,0,0,~,0,0,0,-,~*,~*,~*,~*,~*,+,-,,~,,,,,,+,~,,+,,,+,+,~
+Earth in the Sand,,+,,+,+,+,,~,~,+,~,~,+,,,+,,,-,-,,~,-,-,+,0,0,0,+,~
+Roadside Earth,~,,,+,,+,+,-,~,~,,,,+,-,,,,+,,+,+,,+,+,+,-,+,+,-
+Great Road Earth,,+,,+,~,+,+,~,~,+,~,~,+*,+*,-,+*,+*,+*,-,~,-,+,,-,+,+,~,+,+,~
+Rooftop Earth,0,+,0,0,+,+,+,-,+,+,-,-,,,+,,,+,+,,~,+,,,+,~,,+,+,~
+Water in the Ravine,,,,+,+,~,-,,,~,+,+,,,,,,,,,~,-,-,~,,-,-,+,,+
+Water of the Great Stream,+,0,+,+,~,+,-,,,~,,,+,-*,-*,-*,-*,-*,~,-,0*,0,~,-,+,,-,+,+,+
+Long-Flowing Water,0,+,+,0,+,+,,,~,,,~,+,+,~,+,+,~,~*,~*,~*,~*,~*,~*,+,0,~,+,0,+
+Water of the Milky Way,0*,0*,0*,0*,0*,+,+,~,~,-,,~,,~,+,+,+,+,-,0,+,-,0,+,,+,+,,+,+
+Water in the Spring,~,,-,+,-,+,+,,,+,,,0,+,~,0,+*,~,0,0,+,+,-,+,0,+,0,0,+,+
+Water of the Great Sea,+,,,+,,,~,,-,+,-,-,+,~,-,+,~,+,,~,,+,+,,+,+,+,+,-,

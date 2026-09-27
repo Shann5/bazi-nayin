@@ -70,6 +70,52 @@ Also mirrored on the Hugging Face Hub, if that is where you work:
 (`load_dataset("Shann5/bazi-nayin")`). This repo is the source of truth — the mirror is
 generated from it, and corrections belong here as issues.
 
+## v2 — what the classical text says about each pillar, and about meetings
+
+v1 names the thirty images. v2 adds **how they were read**, structured from volume 1 of
+the *Sānmìng Tōnghuì* (三命通會, Ming dynasty, Siku Quanshu edition on
+[Chinese Wikisource](https://zh.wikisource.org/wiki/三命通會_(四庫全書本)/卷01)). Every
+relation carries a short verbatim quote, and the build fails if any quote is not found
+word for word in the source text ([`classical/`](classical/)).
+
+**[`data/v2/pillars.json`](data/v2/pillars.json)** (+ [`.csv`](data/v2/pillars.csv)) — all sixty stem-branch pillars:
+
+| Field | From the chapter | Example (甲午, Gold in the Sand) |
+|---|---|---|
+| `arc` | 論納音取象 — the thirty images read in order as one life of qi, in six stages by branch pair | stage 4, *Revealed* — "fully formed" |
+| `image`, `likes` | 釋六十甲子性質吉凶, the per-pillar note | "gold refined a hundred times"; likes water, wood, earth |
+| `relations` | the per-pillar paragraphs: `welcome`, `avoid`, `unharmed_by`, `state` + `quotes` | welcomes fire — 「遇火生旺其器乃成」 ("meeting strong fire, the vessel is made") |
+| `scale` | the *large absorbs small* rule for same-element nayin across the four pillars | Pine and Cypress Wood (large) absorbs Willow Wood (small) |
+
+**[`data/v2/matrix.json`](data/v2/matrix.json)** (+ [`.csv`](data/v2/matrix.csv), [`matrix.en.csv`](data/v2/matrix.en.csv)) — nayin × nayin, from the thirty
+chapters that each describe one image meeting the others. Row = the image whose chapter
+it is; column = the one it meets.
+
+| | meaning | share of 663 filled cells |
+|---|---|---|
+| `+` | welcomes | 42% |
+| `~` | conditional — the condition is in the quote ("fine if water is present") | 29% |
+| `-` | avoids | 18% |
+| `0` | no effect ("of no use") | 11% |
+
+Cells marked `*` in the CSV are filled from a blanket statement ("other metals are of no
+use"), not named directly. Empty cells: the text says nothing — they are left empty.
+
+**The relations are directional.** In 41 pairs the two chapters disagree: Sword-Edge
+Metal welcomes Willow Wood (it can cut it); Willow Wood avoids Sword-Edge Metal (it gets
+cut). Ask "who benefits from this meeting", not "are these compatible".
+
+**What this is not.** A record of what one Ming-dynasty text says, not a claim that any
+of it comes true. 喜 / 忌 ("welcome" / "avoid") are the text's words, reported as found.
+Nayin belongs to an older lineage than the day-master method most modern BaZi uses; the
+two assign different elements to the same pillar, and this table does not feed any
+strength calculation. Where the text contradicts itself, both readings are kept
+(`textual_notes`). The verdict for each quote is a curation call — if you read one
+differently, open an issue with the chapter and line.
+
+The source of truth is a private repo; this folder is regenerated from it. Issues welcome;
+PRs that change data will be redirected to an issue.
+
 ## Usage note: your input time is probably wrong
 
 A nayin lookup keys off the stem-branch (ganzhi) pillars, and the pillars key off
@@ -98,3 +144,5 @@ Copy-paste attribution:
 > [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 Copyright © 2026 Auspice Oracle (https://auspiceoracle.com).
+
+The classical source text in [`classical/`](classical/) is in the public domain (Ming-dynasty work, transcribed on Wikisource).
