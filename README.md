@@ -1,5 +1,15 @@
 # The Thirty Nayin (纳音) — English Translations & Dataset
 
+> **This repo holds several small BaZi datasets**, each sourced and each checkable:
+>
+> | Dataset | Folder | What it answers |
+> |---|---|---|
+> | The 30 nayin (纳音) | [`data/`](data/), [`data/v2/`](data/v2/) | English names; classical readings of all 60 pillars; how two nayin meet |
+> | Hidden stems (藏干) across sources | [`hidden-stems/`](hidden-stems/) | what each branch contains, and where classical tables and engines disagree on which stem commands which days |
+>
+> The nayin documentation continues below.
+
+
 The **nayin** (纳音, *nà yīn*, "received tones") are thirty poetic sound-images from
 Chinese metaphysics. Each one covers two adjacent pairs of the sixty Jiazi (六十甲子)
 stem-branch cycle and attaches an elemental image to them — not just *Metal*, but

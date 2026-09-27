@@ -1,0 +1,249 @@
+source,kind,branch,position,stem_raw,stem,element,role,days,weight,note,quote
+sanming-a,classical,寅,1,艮土,,土,,5,,原文作「艮土」，只言屬土，不言戊己,寅中有艮土用事五日丙火長生五日甲木二十日
+sanming-a,classical,寅,2,丙火,丙,火,,5,,,寅中有艮土用事五日丙火長生五日甲木二十日
+sanming-a,classical,寅,3,甲木,甲,木,,20,,,寅中有艮土用事五日丙火長生五日甲木二十日
+sanming-a,classical,卯,1,甲木,甲,木,,7,,,卯中有甲木用事七日乙木二十三日
+sanming-a,classical,卯,2,乙木,乙,木,,23,,,卯中有甲木用事七日乙木二十三日
+sanming-a,classical,辰,1,乙木,乙,木,,7,,,辰中有乙木用事七日壬水墓庫五日戊土一十八日
+sanming-a,classical,辰,2,壬水,壬,水,,5,,,辰中有乙木用事七日壬水墓庫五日戊土一十八日
+sanming-a,classical,辰,3,戊土,戊,土,,18,,,辰中有乙木用事七日壬水墓庫五日戊土一十八日
+sanming-a,classical,巳,1,戊土,戊,土,,7,,,巳中有戊土七日庚金長生五日丙火一十八日
+sanming-a,classical,巳,2,庚金,庚,金,,5,,,巳中有戊土七日庚金長生五日丙火一十八日
+sanming-a,classical,巳,3,丙火,丙,火,,18,,,巳中有戊土七日庚金長生五日丙火一十八日
+sanming-a,classical,午,1,丙火,丙,火,,7,,,午中丙火用事七日丁火二十三日
+sanming-a,classical,午,2,丁火,丁,火,,23,,,午中丙火用事七日丁火二十三日
+sanming-a,classical,未,1,丁火,丁,火,,7,,,未中有丁火用事七日甲木墓庫五日巳土一十八日
+sanming-a,classical,未,2,甲木,甲,木,,5,,,未中有丁火用事七日甲木墓庫五日巳土一十八日
+sanming-a,classical,未,3,巳土,己,土,,18,,原文作「巳土」，據文意讀作己土,未中有丁火用事七日甲木墓庫五日巳土一十八日
+sanming-a,classical,申,1,坤土,,土,,5,,原文作「坤土」，只言屬土，不言戊己,申中有坤土用事五日壬水長生五日庚金二十日
+sanming-a,classical,申,2,壬水,壬,水,,5,,,申中有坤土用事五日壬水長生五日庚金二十日
+sanming-a,classical,申,3,庚金,庚,金,,20,,,申中有坤土用事五日壬水長生五日庚金二十日
+sanming-a,classical,酉,1,庚金,庚,金,,7,,,酉中有庚金用事七日辛金二十三日
+sanming-a,classical,酉,2,辛金,辛,金,,23,,,酉中有庚金用事七日辛金二十三日
+sanming-a,classical,戌,1,辛金,辛,金,,7,,,戌中有辛金用事七日丙火墓庫五日戊土一十八日
+sanming-a,classical,戌,2,丙火,丙,火,,5,,,戌中有辛金用事七日丙火墓庫五日戊土一十八日
+sanming-a,classical,戌,3,戊土,戊,土,,18,,,戌中有辛金用事七日丙火墓庫五日戊土一十八日
+sanming-a,classical,亥,1,戊土,戊,土,,5,,,亥中有戊土五日甲木長生五日壬水用事二十日
+sanming-a,classical,亥,2,甲木,甲,木,,5,,,亥中有戊土五日甲木長生五日壬水用事二十日
+sanming-a,classical,亥,3,壬水,壬,水,,20,,,亥中有戊土五日甲木長生五日壬水用事二十日
+sanming-a,classical,子,1,壬水,壬,水,,7,,,子中有壬水用事七日癸水二十三日
+sanming-a,classical,子,2,癸水,癸,水,,23,,,子中有壬水用事七日癸水二十三日
+sanming-a,classical,丑,1,癸水,癸,水,,7,,,丑中有癸水用事七日庚金墓庫五日巳土一十八日
+sanming-a,classical,丑,2,庚金,庚,金,,5,,,丑中有癸水用事七日庚金墓庫五日巳土一十八日
+sanming-a,classical,丑,3,巳土,己,土,,18,,原文作「巳土」，據文意讀作己土,丑中有癸水用事七日庚金墓庫五日巳土一十八日
+sanming-b,classical,寅,1,已土,己,土,,7,,原文作「已土」，據文意讀作己土,已土七日丙火五日甲木十八日
+sanming-b,classical,寅,2,丙火,丙,火,,5,,,已土七日丙火五日甲木十八日
+sanming-b,classical,寅,3,甲木,甲,木,,18,,,已土七日丙火五日甲木十八日
+sanming-b,classical,卯,1,乙,乙,木,,18,,,乙十八日甲九日癸三日
+sanming-b,classical,卯,2,甲,甲,木,,9,,,乙十八日甲九日癸三日
+sanming-b,classical,卯,3,癸,癸,水,,3,,,乙十八日甲九日癸三日
+sanming-b,classical,辰,1,戊,戊,土,,18,,,戊十八日乙九日癸三日
+sanming-b,classical,辰,2,乙,乙,木,,9,,,戊十八日乙九日癸三日
+sanming-b,classical,辰,3,癸,癸,水,,3,,,戊十八日乙九日癸三日
+sanming-b,classical,巳,1,丙,丙,火,,18,,,丙十八日戊七日庚五日
+sanming-b,classical,巳,2,戊,戊,土,,7,,,丙十八日戊七日庚五日
+sanming-b,classical,巳,3,庚,庚,金,,5,,,丙十八日戊七日庚五日
+sanming-b,classical,午,1,丁,丁,火,,18,,,丁十八日丙九日乙三日
+sanming-b,classical,午,2,丙,丙,火,,9,,,丁十八日丙九日乙三日
+sanming-b,classical,午,3,乙,乙,木,,3,,,丁十八日丙九日乙三日
+sanming-b,classical,未,1,已,己,土,,18,,原文作「已」，讀作己,已十八日乙五日丁七日
+sanming-b,classical,未,2,乙,乙,木,,5,,,已十八日乙五日丁七日
+sanming-b,classical,未,3,丁,丁,火,,7,,,已十八日乙五日丁七日
+sanming-b,classical,申,1,庚,庚,金,,17,,,庚十七日已七日戊三日壬三日
+sanming-b,classical,申,2,已,己,土,,7,,原文作「已」，讀作己,庚十七日已七日戊三日壬三日
+sanming-b,classical,申,3,戊,戊,土,,3,,,庚十七日已七日戊三日壬三日
+sanming-b,classical,申,4,壬,壬,水,,3,,,庚十七日已七日戊三日壬三日
+sanming-b,classical,酉,1,辛,辛,金,,20,,,辛二十日庚七日丁五日
+sanming-b,classical,酉,2,庚,庚,金,,7,,,辛二十日庚七日丁五日
+sanming-b,classical,酉,3,丁,丁,火,,5,,,辛二十日庚七日丁五日
+sanming-b,classical,戌,1,戊,戊,土,,18,,,戊十八日辛七日丁五日
+sanming-b,classical,戌,2,辛,辛,金,,7,,,戊十八日辛七日丁五日
+sanming-b,classical,戌,3,丁,丁,火,,5,,,戊十八日辛七日丁五日
+sanming-b,classical,亥,1,壬,壬,水,,18,,,壬十八日甲五日戊七日
+sanming-b,classical,亥,2,甲,甲,木,,5,,,壬十八日甲五日戊七日
+sanming-b,classical,亥,3,戊,戊,土,,7,,,壬十八日甲五日戊七日
+sanming-b,classical,子,1,癸,癸,水,,18,,,癸十八日壬五日辛三日
+sanming-b,classical,子,2,壬,壬,水,,5,,,癸十八日壬五日辛三日
+sanming-b,classical,子,3,辛,辛,金,,3,,,癸十八日壬五日辛三日
+sanming-b,classical,丑,1,已,己,土,,18,,原文作「已」，讀作己,已十八日癸七日辛五日
+sanming-b,classical,丑,2,癸,癸,水,,7,,,已十八日癸七日辛五日
+sanming-b,classical,丑,3,辛,辛,金,,5,,,已十八日癸七日辛五日
+yuanhai-zangdun,classical,子,1,癸水,癸,水,,,,,子宫癸水在其中
+yuanhai-zangdun,classical,丑,1,癸,癸,水,,,,,丑癸辛金己土同
+yuanhai-zangdun,classical,丑,2,辛金,辛,金,,,,,丑癸辛金己土同
+yuanhai-zangdun,classical,丑,3,己土,己,土,,,,,丑癸辛金己土同
+yuanhai-zangdun,classical,寅,1,甲木,甲,木,,,,,寅宫甲木兼丙戊
+yuanhai-zangdun,classical,寅,2,丙,丙,火,,,,,寅宫甲木兼丙戊
+yuanhai-zangdun,classical,寅,3,戊,戊,土,,,,,寅宫甲木兼丙戊
+yuanhai-zangdun,classical,卯,1,乙木,乙,木,,,,,卯宫乙木独相逢
+yuanhai-zangdun,classical,辰,1,乙,乙,木,,,,,辰藏乙戊三分癸
+yuanhai-zangdun,classical,辰,2,戊,戊,土,,,,,辰藏乙戊三分癸
+yuanhai-zangdun,classical,辰,3,癸,癸,水,,,,,辰藏乙戊三分癸
+yuanhai-zangdun,classical,巳,1,庚金,庚,金,,,,,巳中庚金丙戊丛
+yuanhai-zangdun,classical,巳,2,丙,丙,火,,,,,巳中庚金丙戊丛
+yuanhai-zangdun,classical,巳,3,戊,戊,土,,,,,巳中庚金丙戊丛
+yuanhai-zangdun,classical,午,1,丁火,丁,火,,,,,午宫丁火并己土
+yuanhai-zangdun,classical,午,2,己土,己,土,,,,,午宫丁火并己土
+yuanhai-zangdun,classical,未,1,乙,乙,木,,,,,未宫乙己丁共宗
+yuanhai-zangdun,classical,未,2,己,己,土,,,,,未宫乙己丁共宗
+yuanhai-zangdun,classical,未,3,丁,丁,火,,,,,未宫乙己丁共宗
+yuanhai-zangdun,classical,申,1,庚金,庚,金,,,,,申位庚金壬水戊
+yuanhai-zangdun,classical,申,2,壬水,壬,水,,,,,申位庚金壬水戊
+yuanhai-zangdun,classical,申,3,戊,戊,土,,,,,申位庚金壬水戊
+yuanhai-zangdun,classical,酉,1,辛金,辛,金,,,,,酉宫辛金独丰隆
+yuanhai-zangdun,classical,戌,1,辛金,辛,金,,,,,戌宫辛金及丁戊
+yuanhai-zangdun,classical,戌,2,丁,丁,火,,,,,戌宫辛金及丁戊
+yuanhai-zangdun,classical,戌,3,戊,戊,土,,,,,戌宫辛金及丁戊
+yuanhai-zangdun,classical,亥,1,壬,壬,水,,,,,亥藏壬甲是真踪
+yuanhai-zangdun,classical,亥,2,甲,甲,木,,,,,亥藏壬甲是真踪
+yuanhai-anzang,classical,寅,1,丙火,丙,火,,,,「念三」未能確定是天數還是日序，不取數,立春念三丙火用，餘日甲木旺提纲
+yuanhai-anzang,classical,寅,2,甲木,甲,木,,,,,立春念三丙火用，餘日甲木旺提纲
+yuanhai-anzang,classical,卯,1,乙木,乙,木,,,,,惊蛰乙木未用事；春分乙未正相当
+yuanhai-anzang,classical,辰,1,乙木,乙,木,,10,,,清明乙木十日管，后来八日癸水洋；穀雨前三戊土盛
+yuanhai-anzang,classical,辰,2,癸水,癸,水,,8,,,清明乙木十日管，后来八日癸水洋；穀雨前三戊土盛
+yuanhai-anzang,classical,辰,3,戊土,戊,土,,,,,清明乙木十日管，后来八日癸水洋；穀雨前三戊土盛
+yuanhai-anzang,classical,巳,1,戊土,戊,土,,,,,立夏又伏戊土取；小满过午丙火光
+yuanhai-anzang,classical,巳,2,丙火,丙,火,,,,,立夏又伏戊土取；小满过午丙火光
+yuanhai-anzang,classical,午,1,己土,己,土,,,,,芒种己土相当好，中停七日土高张；夏至阴生阳极利，丙丁火旺有土张
+yuanhai-anzang,classical,午,2,丙,丙,火,,,,,芒种己土相当好，中停七日土高张；夏至阴生阳极利，丙丁火旺有土张
+yuanhai-anzang,classical,午,3,丁,丁,火,,,,,芒种己土相当好，中停七日土高张；夏至阴生阳极利，丙丁火旺有土张
+yuanhai-anzang,classical,未,1,丁火,丁,火,,10,,,小暑十日丁火旺，后来三日乙木芳，己土三日威风盛；大暑己土十日黄
+yuanhai-anzang,classical,未,2,乙木,乙,木,,3,,,小暑十日丁火旺，后来三日乙木芳，己土三日威风盛；大暑己土十日黄
+yuanhai-anzang,classical,未,3,己土,己,土,,13,,「己土三日」與「大暑己土十日」合計 13,小暑十日丁火旺，后来三日乙木芳，己土三日威风盛；大暑己土十日黄
+yuanhai-anzang,classical,申,1,壬水,壬,水,,10,,,立秋十日壬水涨；处暑十五庚金良
+yuanhai-anzang,classical,申,2,庚金,庚,金,,15,,,立秋十日壬水涨；处暑十五庚金良
+yuanhai-anzang,classical,酉,1,庚金,庚,金,,7,,,白露七日庚金旺，八日辛兮祇独行
+yuanhai-anzang,classical,酉,2,辛,辛,金,,8,,,白露七日庚金旺，八日辛兮祇独行
+yuanhai-anzang,classical,戌,1,辛金,辛,金,,7,,,寒露七日辛金管，八日丁火又水降；霜降己土十五日
+yuanhai-anzang,classical,戌,2,丁火,丁,火,,8,,,寒露七日辛金管，八日丁火又水降；霜降己土十五日
+yuanhai-anzang,classical,戌,3,己土,己,土,,15,,,寒露七日辛金管，八日丁火又水降；霜降己土十五日
+yuanhai-anzang,classical,亥,1,癸水,癸,水,,7,,亥中藏癸，諸本少見,立冬七日癸水旺，壬水八日更流忙；小雪七日壬水急，八日甲木又芬芳
+yuanhai-anzang,classical,亥,2,壬水,壬,水,,15,,「壬水八日」與「小雪七日壬水」合計 15,立冬七日癸水旺，壬水八日更流忙；小雪七日壬水急，八日甲木又芬芳
+yuanhai-anzang,classical,亥,3,甲木,甲,木,,8,,,立冬七日癸水旺，壬水八日更流忙；小雪七日壬水急，八日甲木又芬芳
+yuanhai-anzang,classical,子,1,壬水,壬,水,,7,,,大雪七日壬水管；冬至癸水更潺汪
+yuanhai-anzang,classical,子,2,癸水,癸,水,,,,,大雪七日壬水管；冬至癸水更潺汪
+yuanhai-anzang,classical,丑,1,癸水,癸,水,,7,,,小寒七日癸水养，八日辛金丑库藏；大寒十日己土胜
+yuanhai-anzang,classical,丑,2,辛金,辛,金,,8,,,小寒七日癸水养，八日辛金丑库藏；大寒十日己土胜
+yuanhai-anzang,classical,丑,3,己土,己,土,,10,,,小寒七日癸水养，八日辛金丑库藏；大寒十日己土胜
+lunar-typescript,engine,子,1,癸,癸,水,main,,,,
+auspice-engine,engine,子,1,癸,癸,水,main,,0.6,weights not normalised per branch,
+tyme4ts-nominal,engine,子,1,壬,壬,水,residual,10,,,
+tyme4ts-nominal,engine,子,2,癸,癸,水,main,20,,remainder of a nominal 30-day month,
+tyme4ts-as-run,engine,子,1,壬,壬,水,residual,11,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,子,2,癸,癸,水,main,18,,"counted day by day, 2025 solar-term month",
+lunar-typescript,engine,丑,1,己,己,土,main,,,,
+auspice-engine,engine,丑,1,己,己,土,main,,0.6,,
+lunar-typescript,engine,丑,2,癸,癸,水,middle,,,,
+auspice-engine,engine,丑,2,癸,癸,水,middle,,0.3,,
+lunar-typescript,engine,丑,3,辛,辛,金,residual,,,,
+auspice-engine,engine,丑,3,辛,辛,金,residual,,0.1,,
+tyme4ts-nominal,engine,丑,1,癸,癸,水,residual,9,,,
+tyme4ts-nominal,engine,丑,2,辛,辛,金,middle,3,,,
+tyme4ts-nominal,engine,丑,3,己,己,土,main,18,,remainder of a nominal 30-day month,
+tyme4ts-as-run,engine,丑,1,癸,癸,水,residual,10,,"counted day by day, 2026 solar-term month",
+tyme4ts-as-run,engine,丑,2,辛,辛,金,middle,3,,"counted day by day, 2026 solar-term month",
+tyme4ts-as-run,engine,丑,3,己,己,土,main,17,,"counted day by day, 2026 solar-term month",
+lunar-typescript,engine,寅,1,甲,甲,木,main,,,,
+auspice-engine,engine,寅,1,甲,甲,木,main,,0.6,,
+lunar-typescript,engine,寅,2,丙,丙,火,middle,,,,
+auspice-engine,engine,寅,2,丙,丙,火,middle,,0.3,,
+lunar-typescript,engine,寅,3,戊,戊,土,residual,,,,
+auspice-engine,engine,寅,3,戊,戊,土,residual,,0.1,,
+tyme4ts-nominal,engine,寅,1,戊,戊,土,residual,7,,,
+tyme4ts-nominal,engine,寅,2,丙,丙,火,middle,7,,,
+tyme4ts-nominal,engine,寅,3,甲,甲,木,main,16,,remainder of a nominal 30-day month,
+tyme4ts-as-run,engine,寅,1,戊,戊,土,residual,8,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,寅,2,丙,丙,火,middle,7,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,寅,3,甲,甲,木,main,15,,"counted day by day, 2025 solar-term month",
+lunar-typescript,engine,卯,1,乙,乙,木,main,,,,
+auspice-engine,engine,卯,1,乙,乙,木,main,,0.6,weights not normalised per branch,
+tyme4ts-nominal,engine,卯,1,甲,甲,木,residual,10,,,
+tyme4ts-nominal,engine,卯,2,乙,乙,木,main,20,,remainder of a nominal 30-day month,
+tyme4ts-as-run,engine,卯,1,甲,甲,木,residual,11,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,卯,2,乙,乙,木,main,19,,"counted day by day, 2025 solar-term month",
+lunar-typescript,engine,辰,1,戊,戊,土,main,,,,
+auspice-engine,engine,辰,1,戊,戊,土,main,,0.6,,
+lunar-typescript,engine,辰,2,乙,乙,木,middle,,,,
+auspice-engine,engine,辰,2,乙,乙,木,middle,,0.3,,
+lunar-typescript,engine,辰,3,癸,癸,水,residual,,,,
+auspice-engine,engine,辰,3,癸,癸,水,residual,,0.1,,
+tyme4ts-nominal,engine,辰,1,乙,乙,木,residual,9,,,
+tyme4ts-nominal,engine,辰,2,癸,癸,水,middle,3,,,
+tyme4ts-nominal,engine,辰,3,戊,戊,土,main,18,,remainder of a nominal 30-day month,
+tyme4ts-as-run,engine,辰,1,乙,乙,木,residual,10,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,辰,2,癸,癸,水,middle,3,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,辰,3,戊,戊,土,main,18,,"counted day by day, 2025 solar-term month",
+lunar-typescript,engine,巳,1,丙,丙,火,main,,,,
+auspice-engine,engine,巳,1,丙,丙,火,main,,0.6,,
+lunar-typescript,engine,巳,2,庚,庚,金,middle,,,,
+auspice-engine,engine,巳,2,庚,庚,金,middle,,0.3,,
+lunar-typescript,engine,巳,3,戊,戊,土,residual,,,,
+auspice-engine,engine,巳,3,戊,戊,土,residual,,0.1,,
+tyme4ts-nominal,engine,巳,1,戊,戊,土,residual,5,,,
+tyme4ts-nominal,engine,巳,2,庚,庚,金,middle,9,,,
+tyme4ts-nominal,engine,巳,3,丙,丙,火,main,16,,remainder of a nominal 30-day month,
+tyme4ts-as-run,engine,巳,1,戊,戊,土,residual,6,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,巳,2,庚,庚,金,middle,9,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,巳,3,丙,丙,火,main,16,,"counted day by day, 2025 solar-term month",
+lunar-typescript,engine,午,1,丁,丁,火,main,,,,
+auspice-engine,engine,午,1,丁,丁,火,main,,0.6,,
+lunar-typescript,engine,午,2,己,己,土,middle,,,,
+auspice-engine,engine,午,2,己,己,土,middle,,0.3,weights not normalised per branch,
+tyme4ts-nominal,engine,午,1,丙,丙,火,residual,10,,,
+tyme4ts-nominal,engine,午,2,己,己,土,middle,9,,,
+tyme4ts-nominal,engine,午,3,丁,丁,火,main,11,,remainder of a nominal 30-day month,
+tyme4ts-as-run,engine,午,1,丙,丙,火,residual,11,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,午,2,己,己,土,middle,9,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,午,3,丁,丁,火,main,12,,"counted day by day, 2025 solar-term month",
+lunar-typescript,engine,未,1,己,己,土,main,,,,
+auspice-engine,engine,未,1,己,己,土,main,,0.6,,
+lunar-typescript,engine,未,2,丁,丁,火,middle,,,,
+auspice-engine,engine,未,2,丁,丁,火,middle,,0.3,,
+lunar-typescript,engine,未,3,乙,乙,木,residual,,,,
+auspice-engine,engine,未,3,乙,乙,木,residual,,0.1,,
+tyme4ts-nominal,engine,未,1,丁,丁,火,residual,9,,,
+tyme4ts-nominal,engine,未,2,乙,乙,木,middle,3,,,
+tyme4ts-nominal,engine,未,3,己,己,土,main,18,,remainder of a nominal 30-day month,
+tyme4ts-as-run,engine,未,1,丁,丁,火,residual,10,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,未,2,乙,乙,木,middle,3,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,未,3,己,己,土,main,18,,"counted day by day, 2025 solar-term month",
+lunar-typescript,engine,申,1,庚,庚,金,main,,,,
+auspice-engine,engine,申,1,庚,庚,金,main,,0.6,,
+lunar-typescript,engine,申,2,壬,壬,水,middle,,,,
+auspice-engine,engine,申,2,壬,壬,水,middle,,0.3,,
+lunar-typescript,engine,申,3,戊,戊,土,residual,,,,
+auspice-engine,engine,申,3,戊,戊,土,residual,,0.1,,
+tyme4ts-nominal,engine,申,1,戊,戊,土,residual,10,,,
+tyme4ts-nominal,engine,申,2,壬,壬,水,middle,3,,,
+tyme4ts-nominal,engine,申,3,庚,庚,金,main,17,,remainder of a nominal 30-day month,
+tyme4ts-as-run,engine,申,1,戊,戊,土,residual,11,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,申,2,壬,壬,水,middle,3,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,申,3,庚,庚,金,main,17,,"counted day by day, 2025 solar-term month",
+lunar-typescript,engine,酉,1,辛,辛,金,main,,,,
+auspice-engine,engine,酉,1,辛,辛,金,main,,0.6,weights not normalised per branch,
+tyme4ts-nominal,engine,酉,1,庚,庚,金,residual,10,,,
+tyme4ts-nominal,engine,酉,2,辛,辛,金,main,20,,remainder of a nominal 30-day month,
+tyme4ts-as-run,engine,酉,1,庚,庚,金,residual,11,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,酉,2,辛,辛,金,main,20,,"counted day by day, 2025 solar-term month",
+lunar-typescript,engine,戌,1,戊,戊,土,main,,,,
+auspice-engine,engine,戌,1,戊,戊,土,main,,0.6,,
+lunar-typescript,engine,戌,2,辛,辛,金,middle,,,,
+auspice-engine,engine,戌,2,辛,辛,金,middle,,0.3,,
+lunar-typescript,engine,戌,3,丁,丁,火,residual,,,,
+auspice-engine,engine,戌,3,丁,丁,火,residual,,0.1,,
+tyme4ts-nominal,engine,戌,1,辛,辛,金,residual,9,,,
+tyme4ts-nominal,engine,戌,2,丁,丁,火,middle,3,,,
+tyme4ts-nominal,engine,戌,3,戊,戊,土,main,18,,remainder of a nominal 30-day month,
+tyme4ts-as-run,engine,戌,1,辛,辛,金,residual,10,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,戌,2,丁,丁,火,middle,3,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,戌,3,戊,戊,土,main,17,,"counted day by day, 2025 solar-term month",
+lunar-typescript,engine,亥,1,壬,壬,水,main,,,,
+auspice-engine,engine,亥,1,壬,壬,水,main,,0.6,,
+lunar-typescript,engine,亥,2,甲,甲,木,middle,,,,
+auspice-engine,engine,亥,2,甲,甲,木,middle,,0.3,weights not normalised per branch,
+tyme4ts-nominal,engine,亥,1,戊,戊,土,residual,7,,,
+tyme4ts-nominal,engine,亥,2,甲,甲,木,middle,5,,,
+tyme4ts-nominal,engine,亥,3,壬,壬,水,main,18,,remainder of a nominal 30-day month,
+tyme4ts-as-run,engine,亥,1,戊,戊,土,residual,8,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,亥,2,甲,甲,木,middle,5,,"counted day by day, 2025 solar-term month",
+tyme4ts-as-run,engine,亥,3,壬,壬,水,main,17,,"counted day by day, 2025 solar-term month",
