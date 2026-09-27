@@ -1,7 +1,8 @@
+// 用法：npm i lunar-typescript tyme4ts && node engines.cjs engines.json
 // 从两个 MIT 引擎实跑取藏干：lunar-typescript（成员与次序）、tyme4ts（人元司令分野天数）。
 // tyme4ts 的天数按实际节气区间给，这里取 2025 各节后一个月逐日跑，数出每段天数。
-const { LunarUtil } = require('/Users/shanliu/idea-2026/AuspiceOracle/node_modules/lunar-typescript')
-const T = require('./package/dist/lib/index.cjs')
+const { LunarUtil } = require('lunar-typescript')
+const T = require('tyme4ts')
 const BR = '子丑寅卯辰巳午未申酉戌亥'
 const out = { lunar: {}, tyme: {} }
 for (const b of BR) out.lunar[b] = LunarUtil.ZHI_HIDE_GAN[b]
@@ -24,7 +25,7 @@ for (const b of BR) {
 // tyme4ts 源码里编码的名义天数表（dist 中 getHideHeavenStemDay 的 data 串，逐节 3 组「干序+天数档」）。
 // 实跑与名义不同：首段恒多 1 天（判定用 dayIndex <= days，节气当日也算进首段）。两份都记。
 {
-  const src = require('fs').readFileSync('./package/dist/lib/index.cjs.js', 'utf8')
+  const src = require('fs').readFileSync(require.resolve('tyme4ts').replace(/index\.cjs$/, 'index.cjs.js'), 'utf8')
   const data = src.match(/data="([0-9x]{72})"/)[1]
   const dayCounts = JSON.parse(src.match(/dayCounts=(\[[0-9,]+\])/)[1])
   const STEMS = '甲乙丙丁戊己庚辛壬癸'
@@ -39,6 +40,14 @@ for (const b of BR) {
     out.tyme_nominal[b] = parts
   }
 }
-out.versions = { 'lunar-typescript': require('/Users/shanliu/idea-2026/AuspiceOracle/node_modules/lunar-typescript/package.json').version, tyme4ts: require('./package/package.json').version }
+// 两个包的 exports 都不暴露 package.json：从入口文件往上找
+const fs = require('fs'), path = require('path')
+const versionOf = (name) => {
+  for (let d = path.dirname(require.resolve(name)); d !== path.dirname(d); d = path.dirname(d)) {
+    const f = path.join(d, 'package.json')
+    if (fs.existsSync(f) && JSON.parse(fs.readFileSync(f, 'utf8')).name === name) return JSON.parse(fs.readFileSync(f, 'utf8')).version
+  }
+}
+out.versions = { 'lunar-typescript': versionOf('lunar-typescript'), tyme4ts: versionOf('tyme4ts') }
 require('fs').writeFileSync(process.argv[2], JSON.stringify(out, null, 1))
 for (const b of BR) console.log(b, out.lunar[b].join(''), out.tyme[b].runs.map(r => r.stem + r.days + r.type.slice(0, 3)).join(' '))
