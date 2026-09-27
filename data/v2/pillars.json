@@ -16,8 +16,7 @@
    "arc": {
     "stage": 1,
     "branch_pair": "子丑",
-    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際",
-    "label_en": "Conceived — held in the womb, roots not yet out"
+    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際"
    },
    "image": "寶物",
    "likes": "喜金木旺地",
@@ -40,14 +39,9 @@
      "甲子從革之金其氣散得戊申土癸巳水相之則吉",
      "忌丁卯丁酉戊午之火"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "metal that yields to reshaping"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Gold in the Sea",
-   "image_en": "treasure",
-   "likes_en": "metal and wood in their strong places"
+   "nayin_en": "Gold in the Sea"
   },
   {
    "ganzhi": "乙丑",
@@ -57,8 +51,7 @@
    "arc": {
     "stage": 1,
     "branch_pair": "子丑",
-    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際",
-    "label_en": "Conceived — held in the womb, roots not yet out"
+    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際"
    },
    "image": "頑鑛",
    "likes": "喜火及南方日時",
@@ -79,14 +72,9 @@
      "乙丑自庫之金火不能克",
      "獨忌己丑己未之火"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "metal in its own Storage"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Gold in the Sea",
-   "image_en": "unworked ore",
-   "likes_en": "fire, and southern days and hours"
+   "nayin_en": "Gold in the Sea"
   },
   {
    "ganzhi": "丙寅",
@@ -96,8 +84,7 @@
    "arc": {
     "stage": 2,
     "branch_pair": "寅卯",
-    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也",
-    "label_en": "Opening — growing, buds splitting, about to stand"
+    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也"
    },
    "image": "爐炭",
    "likes": "喜冬及木",
@@ -114,14 +101,9 @@
     "quotes": [
      "丙寅赫曦之火無水制之則有燔灼炎烈之患水不可過獨愛甲寅之水"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "blazing fire"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Fire in the Furnace",
-   "image_en": "furnace coals",
-   "likes_en": "winter, and wood"
+   "nayin_en": "Fire in the Furnace"
   },
   {
    "ganzhi": "丁卯",
@@ -131,8 +113,7 @@
    "arc": {
     "stage": 2,
     "branch_pair": "寅卯",
-    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也",
-    "label_en": "Opening — growing, buds splitting, about to stand"
+    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也"
    },
    "image": "爐煙",
    "likes": "喜巽地及秋冬",
@@ -152,14 +133,9 @@
     "quotes": [
      "丁卯伏明之火氣弱宜木生之遇水則凶乙卯乙酉水最毒"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "fire with its light hidden"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Fire in the Furnace",
-   "image_en": "furnace smoke",
-   "likes_en": "the southeast, autumn and winter"
+   "nayin_en": "Fire in the Furnace"
   },
   {
    "ganzhi": "戊辰",
@@ -169,8 +145,7 @@
    "arc": {
     "stage": 3,
     "branch_pair": "辰巳",
-    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象",
-    "label_en": "Flourishing — in bloom, the age of first standing and advancing"
+    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象"
    },
    "image": "山林山野處不材之木",
    "likes": "喜水",
@@ -190,14 +165,9 @@
      "戊辰兩土下木衆金不能克",
      "得水生之為佳"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "wood beneath two earths"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Great Forest Wood",
-   "image_en": "wild mountain timber, not yet fit for use",
-   "likes_en": "water"
+   "nayin_en": "Great Forest Wood"
   },
   {
    "ganzhi": "己巳",
@@ -207,8 +177,7 @@
    "arc": {
     "stage": 3,
     "branch_pair": "辰巳",
-    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象",
-    "label_en": "Flourishing — in bloom, the age of first standing and advancing"
+    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象"
    },
    "image": "山頭花草",
    "likes": "喜春及秋",
@@ -225,14 +194,9 @@
     "quotes": [
      "己巳為近火之木金自此生於我無傷忌見生旺之金"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "wood close to fire"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Great Forest Wood",
-   "image_en": "flowers and grasses on the hilltop",
-   "likes_en": "spring and autumn"
+   "nayin_en": "Great Forest Wood"
   },
   {
    "ganzhi": "庚午",
@@ -242,8 +206,7 @@
    "arc": {
     "stage": 4,
     "branch_pair": "午未",
-    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見",
-    "label_en": "Revealed — fully formed; how a life has gone becomes visible"
+    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見"
    },
    "image": "路傍乾土",
    "likes": "喜水及春",
@@ -262,14 +225,9 @@
     "quotes": [
      "庚午辛未始生之土木不能克惟忌水多反傷其氣"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "newly born earth"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Roadside Earth",
-   "image_en": "dry earth by the road",
-   "likes_en": "water, and spring"
+   "nayin_en": "Roadside Earth"
   },
   {
    "ganzhi": "辛未",
@@ -279,8 +237,7 @@
    "arc": {
     "stage": 4,
     "branch_pair": "午未",
-    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見",
-    "label_en": "Revealed — fully formed; how a life has gone becomes visible"
+    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見"
    },
    "image": "含萬寶待秋成",
    "likes": "喜秋及火",
@@ -299,14 +256,9 @@
     "quotes": [
      "庚午辛未始生之土木不能克惟忌水多反傷其氣"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "newly born earth"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Roadside Earth",
-   "image_en": "earth holding its yield, waiting for the autumn harvest",
-   "likes_en": "autumn, and fire"
+   "nayin_en": "Roadside Earth"
   },
   {
    "ganzhi": "壬申",
@@ -316,8 +268,7 @@
    "arc": {
     "stage": 5,
     "branch_pair": "申酉",
-    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣",
-    "label_en": "Gathering in — harvest taken, drawing inward into quiet"
+    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣"
    },
    "image": "戈㦸",
    "likes": "大喜子午卯酉",
@@ -339,14 +290,9 @@
     "quotes": [
      "壬申臨官之金利見水土若丙申丙寅戊午之火則為災害"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "metal at Coming of Age"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Sword-Edge Metal",
-   "image_en": "halberds",
-   "likes_en": "greatly: 子 午 卯 酉"
+   "nayin_en": "Sword-Edge Metal"
   },
   {
    "ganzhi": "癸酉",
@@ -356,8 +302,7 @@
    "arc": {
     "stage": 5,
     "branch_pair": "申酉",
-    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣",
-    "label_en": "Gathering in — harvest taken, drawing inward into quiet"
+    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣"
    },
    "image": "金之椎鑿",
    "likes": "喜木及寅卯",
@@ -376,14 +321,9 @@
     "quotes": [
      "癸酉堅成之金火死於酉見火何傷惟忌丁酉火就位克之"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "hardened, finished metal"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Sword-Edge Metal",
-   "image_en": "hammers and chisels",
-   "likes_en": "wood, and 寅 卯"
+   "nayin_en": "Sword-Edge Metal"
   },
   {
    "ganzhi": "甲戌",
@@ -393,8 +333,7 @@
    "arc": {
     "stage": 6,
     "branch_pair": "戌亥",
-    "quote": "陰陽閉塞物氣歸根人當休息各有歸著",
-    "label_en": "Closing — qi returns to the root; time to rest"
+    "quote": "陰陽閉塞物氣歸根人當休息各有歸著"
    },
    "image": "火所宿處",
    "likes": "喜春及夏",
@@ -413,14 +352,9 @@
     "quotes": [
      "甲戌自庫之火不嫌衆水只忌壬戌"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "fire in its own Storage"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Hilltop Fire",
-   "image_en": "where fire rests",
-   "likes_en": "spring and summer"
+   "nayin_en": "Hilltop Fire"
   },
   {
    "ganzhi": "乙亥",
@@ -430,8 +364,7 @@
    "arc": {
     "stage": 6,
     "branch_pair": "戌亥",
-    "quote": "陰陽閉塞物氣歸根人當休息各有歸著",
-    "label_en": "Closing — qi returns to the root; time to rest"
+    "quote": "陰陽閉塞物氣歸根人當休息各有歸著"
    },
    "image": "火之熱氣",
    "likes": "喜土及夏",
@@ -455,14 +388,9 @@
      "藉己亥辛卯己巳壬午",
      "癸亥丙午水有之則不吉"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "fire with its light hidden"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Hilltop Fire",
-   "image_en": "the heat of a fire",
-   "likes_en": "earth, and summer"
+   "nayin_en": "Hilltop Fire"
   },
   {
    "ganzhi": "丙子",
@@ -472,8 +400,7 @@
    "arc": {
     "stage": 1,
     "branch_pair": "子丑",
-    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際",
-    "label_en": "Conceived — held in the womb, roots not yet out"
+    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際"
    },
    "image": "江湖",
    "likes": "喜木及土",
@@ -492,14 +419,9 @@
     "quotes": [
      "丙子流衍之水不忌衆土惟嫌庚子"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "spreading water"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Water in the Ravine",
-   "image_en": "rivers and lakes",
-   "likes_en": "wood and earth"
+   "nayin_en": "Water in the Ravine"
   },
   {
    "ganzhi": "丁丑",
@@ -509,8 +431,7 @@
    "arc": {
     "stage": 1,
     "branch_pair": "子丑",
-    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際",
-    "label_en": "Conceived — held in the womb, roots not yet out"
+    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際"
    },
    "image": "水之不流清徹處",
    "likes": "喜金及夏",
@@ -531,14 +452,9 @@
     "quotes": [
      "丁丑福聚之水最愛金生忌辛未丙辰丙戌"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "water where fortune gathers"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Water in the Ravine",
-   "image_en": "still, clear water that does not flow",
-   "likes_en": "metal, and summer"
+   "nayin_en": "Water in the Ravine"
   },
   {
    "ganzhi": "戊寅",
@@ -548,8 +464,7 @@
    "arc": {
     "stage": 2,
     "branch_pair": "寅卯",
-    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也",
-    "label_en": "Opening — growing, buds splitting, about to stand"
+    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也"
    },
    "image": "堤阜城郭",
    "likes": "喜木及火",
@@ -570,14 +485,9 @@
     "quotes": [
      "戊寅受傷之土最為無力要生旺火以資其氣忌己亥庚寅辛卯諸色木"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "wounded earth"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "City Wall Earth",
-   "image_en": "embankments and city walls",
-   "likes_en": "wood and fire"
+   "nayin_en": "City Wall Earth"
   },
   {
    "ganzhi": "己卯",
@@ -587,8 +497,7 @@
    "arc": {
     "stage": 2,
     "branch_pair": "寅卯",
-    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也",
-    "label_en": "Opening — growing, buds splitting, about to stand"
+    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也"
    },
    "image": "破堤敗城",
    "likes": "喜申酉及火",
@@ -608,14 +517,9 @@
     "quotes": [
      "己卯自死之土抑又甚焉貴得丁卯甲戌乙亥己未之火"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "earth at Stillness"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "City Wall Earth",
-   "image_en": "broken embankments, fallen walls",
-   "likes_en": "申 酉, and fire"
+   "nayin_en": "City Wall Earth"
   },
   {
    "ganzhi": "庚辰",
@@ -625,8 +529,7 @@
    "arc": {
     "stage": 3,
     "branch_pair": "辰巳",
-    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象",
-    "label_en": "Flourishing — in bloom, the age of first standing and advancing"
+    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象"
    },
    "image": "錫鑞",
    "likes": "喜秋及微木",
@@ -645,14 +548,9 @@
      "庚辰氣聚之金不用火制其器自成",
      "若甲辰乙巳火惡不可言"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "metal with its qi gathered"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Soft Wax Metal",
-   "image_en": "tin and pewter",
-   "likes_en": "autumn, and a little wood"
+   "nayin_en": "Soft Wax Metal"
   },
   {
    "ganzhi": "辛巳",
@@ -662,8 +560,7 @@
    "arc": {
     "stage": 3,
     "branch_pair": "辰巳",
-    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象",
-    "label_en": "Flourishing — in bloom, the age of first standing and advancing"
+    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象"
    },
    "image": "金之生者雜沙石",
    "likes": "喜火及秋",
@@ -684,14 +581,9 @@
     ],
     "textual_notes": [
      "原文「丙辰」納音屬土，與「之火」不合，疑為「甲辰」之訛；照錄待核"
-    ],
-    "state_en": [
-     "metal at Birth"
     ]
    },
-   "nayin_en": "Soft Wax Metal",
-   "image_en": "living ore mixed with sand and stone",
-   "likes_en": "fire, and autumn"
+   "nayin_en": "Soft Wax Metal"
   },
   {
    "ganzhi": "壬午",
@@ -701,8 +593,7 @@
    "arc": {
     "stage": 4,
     "branch_pair": "午未",
-    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見",
-    "label_en": "Revealed — fully formed; how a life has gone becomes visible"
+    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見"
    },
    "image": "楊柳幹節",
    "likes": "喜春夏",
@@ -724,14 +615,9 @@
      "雖生旺之金亦不能傷",
      "惟忌甲午金傷之"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "soft, pliant wood"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Willow Wood",
-   "image_en": "willow trunk",
-   "likes_en": "spring and summer"
+   "nayin_en": "Willow Wood"
   },
   {
    "ganzhi": "癸未",
@@ -741,8 +627,7 @@
    "arc": {
     "stage": 4,
     "branch_pair": "午未",
-    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見",
-    "label_en": "Revealed — fully formed; how a life has gone becomes visible"
+    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見"
    },
    "image": "楊柳根",
    "likes": "喜冬及水亦宜春",
@@ -761,14 +646,9 @@
      "癸未自庫之木生旺則佳雖乙丑金不能衝破",
      "忌庚戌乙未金"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "wood in its own Storage"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Willow Wood",
-   "image_en": "willow roots",
-   "likes_en": "winter and water; spring also suits"
+   "nayin_en": "Willow Wood"
   },
   {
    "ganzhi": "甲申",
@@ -778,8 +658,7 @@
    "arc": {
     "stage": 5,
     "branch_pair": "申酉",
-    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣",
-    "label_en": "Gathering in — harvest taken, drawing inward into quiet"
+    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣"
    },
    "image": "甘井",
    "likes": "喜春及夏",
@@ -801,14 +680,9 @@
     "quotes": [
      "甲申自生之水其氣流衍宜有所歸亦藉金生不忌衆土特嫌戊申庚子之土"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "water at Birth"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Water in the Spring",
-   "image_en": "a sweet-water well",
-   "likes_en": "spring and summer"
+   "nayin_en": "Water in the Spring"
   },
   {
    "ganzhi": "乙酉",
@@ -818,8 +692,7 @@
    "arc": {
     "stage": 5,
     "branch_pair": "申酉",
-    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣",
-    "label_en": "Gathering in — harvest taken, drawing inward into quiet"
+    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣"
    },
    "image": "陰壑水",
    "likes": "喜東方及南",
@@ -843,14 +716,9 @@
      "乙酉自敗之水假衆金以相之",
      "忌己酉己卯戊申庚子辛丑之土"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "water at Bath"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Water in the Spring",
-   "image_en": "water in a shaded gully",
-   "likes_en": "the east and south"
+   "nayin_en": "Water in the Spring"
   },
   {
    "ganzhi": "丙戌",
@@ -860,8 +728,7 @@
    "arc": {
     "stage": 6,
     "branch_pair": "戌亥",
-    "quote": "陰陽閉塞物氣歸根人當休息各有歸著",
-    "label_en": "Closing — qi returns to the root; time to rest"
+    "quote": "陰陽閉塞物氣歸根人當休息各有歸著"
    },
    "image": "堆阜",
    "likes": "喜春夏及水",
@@ -882,14 +749,9 @@
     "quotes": [
      "丙戌福壯祿厚之土木不能克忌見生旺之金若遇火盛則貴不可言"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "earth of strong fortune and ample provision"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Rooftop Earth",
-   "image_en": "mounded earth",
-   "likes_en": "spring, summer, and water"
+   "nayin_en": "Rooftop Earth"
   },
   {
    "ganzhi": "丁亥",
@@ -899,8 +761,7 @@
    "arc": {
     "stage": 6,
     "branch_pair": "戌亥",
-    "quote": "陰陽閉塞物氣歸根人當休息各有歸著",
-    "label_en": "Closing — qi returns to the root; time to rest"
+    "quote": "陰陽閉塞物氣歸根人當休息各有歸著"
    },
    "image": "平原",
    "likes": "喜火及木",
@@ -923,14 +784,9 @@
     "quotes": [
      "丁亥臨官之土木不能克嫌金多須得火生救之乃吉忌己亥辛卯之木"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "earth at Coming of Age"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Rooftop Earth",
-   "image_en": "open plain",
-   "likes_en": "fire and wood"
+   "nayin_en": "Rooftop Earth"
   },
   {
    "ganzhi": "戊子",
@@ -940,8 +796,7 @@
    "arc": {
     "stage": 1,
     "branch_pair": "子丑",
-    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際",
-    "label_en": "Conceived — held in the womb, roots not yet out"
+    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際"
    },
    "image": "雷也",
    "likes": "喜水及春夏得土而神天",
@@ -965,14 +820,9 @@
     ],
     "textual_notes": [
      "同卷下文又說「戊子人得丙午或丙午人得戊子無不貴」，與此相反；兩說並存照錄"
-    ],
-    "state_en": [
-     "fire within water"
     ]
    },
-   "nayin_en": "Thunderbolt Fire",
-   "image_en": "thunder",
-   "likes_en": "water, spring and summer; with earth it becomes spirit"
+   "nayin_en": "Thunderbolt Fire"
   },
   {
    "ganzhi": "己丑",
@@ -982,8 +832,7 @@
    "arc": {
     "stage": 1,
     "branch_pair": "子丑",
-    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際",
-    "label_en": "Conceived — held in the womb, roots not yet out"
+    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際"
    },
    "image": "電也",
    "likes": "喜水及春夏得地而晦",
@@ -1004,15 +853,9 @@
      "戊子己丑水中之火又曰神龍之火遇水方貴",
      "若遇丙寅戊午之火助之可成濟物之功"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "fire within water",
-     "the heavenly general's fire"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Thunderbolt Fire",
-   "image_en": "lightning",
-   "likes_en": "water, spring and summer; with earth it dims"
+   "nayin_en": "Thunderbolt Fire"
   },
   {
    "ganzhi": "庚寅",
@@ -1022,8 +865,7 @@
    "arc": {
     "stage": 2,
     "branch_pair": "寅卯",
-    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也",
-    "label_en": "Opening — growing, buds splitting, about to stand"
+    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也"
    },
    "image": "松柏幹節",
    "likes": "喜秋冬",
@@ -1043,14 +885,9 @@
      "庚寅辛卯歲寒之木雪霜無以改其操况金能克之乎",
      "若庚寅木逢壬申金相衝受克"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "wood that holds through the cold of the year"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Pine and Cypress Wood",
-   "image_en": "pine and cypress trunks",
-   "likes_en": "autumn and winter"
+   "nayin_en": "Pine and Cypress Wood"
   },
   {
    "ganzhi": "辛卯",
@@ -1060,8 +897,7 @@
    "arc": {
     "stage": 2,
     "branch_pair": "寅卯",
-    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也",
-    "label_en": "Opening — growing, buds splitting, about to stand"
+    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也"
    },
    "image": "松柏之根",
    "likes": "喜水土及宜春",
@@ -1081,14 +917,9 @@
      "庚寅辛卯歲寒之木雪霜無以改其操况金能克之乎",
      "若庚寅木逢壬申金相衝受克"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "wood that holds through the cold of the year"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Pine and Cypress Wood",
-   "image_en": "pine and cypress roots",
-   "likes_en": "water and earth; spring suits"
+   "nayin_en": "Pine and Cypress Wood"
   },
   {
    "ganzhi": "壬辰",
@@ -1098,8 +929,7 @@
    "arc": {
     "stage": 3,
     "branch_pair": "辰巳",
-    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象",
-    "label_en": "Flourishing — in bloom, the age of first standing and advancing"
+    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象"
    },
    "image": "龍水",
    "likes": "喜雷電及春夏",
@@ -1124,14 +954,9 @@
      "壬辰自庫之水若池沼水積之地忌金來決破若再見壬辰是謂自刑",
      "遇多水土皆喜惟畏壬戌癸亥丙子之水"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "water in its own Storage"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Long-Flowing Water",
-   "image_en": "dragon water",
-   "likes_en": "thunder and lightning, spring and summer"
+   "nayin_en": "Long-Flowing Water"
   },
   {
    "ganzhi": "癸巳",
@@ -1141,8 +966,7 @@
    "arc": {
     "stage": 3,
     "branch_pair": "辰巳",
-    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象",
-    "label_en": "Flourishing — in bloom, the age of first standing and advancing"
+    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象"
    },
    "image": "水之不息流入海",
    "likes": "喜亥子乃變化",
@@ -1163,14 +987,9 @@
     "quotes": [
      "癸巳為自絶之水名曰涸流若丙戌丁亥庚子壯厚之土其涸可待若得三合生旺之金生之則源泉混混"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "water at Void"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Long-Flowing Water",
-   "image_en": "water that never stops, flowing to the sea",
-   "likes_en": "亥 子, where it transforms"
+   "nayin_en": "Long-Flowing Water"
   },
   {
    "ganzhi": "甲午",
@@ -1180,8 +999,7 @@
    "arc": {
     "stage": 4,
     "branch_pair": "午未",
-    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見",
-    "label_en": "Revealed — fully formed; how a life has gone becomes visible"
+    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見"
    },
    "image": "百煉精金",
    "likes": "喜水木土",
@@ -1202,14 +1020,9 @@
     "quotes": [
      "甲午自敗之金亦曰强悍之金遇火生旺其器乃成忌丁卯丁酉戊子之火凶"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "metal at Bath"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Gold in the Sand",
-   "image_en": "gold refined a hundred times",
-   "likes_en": "water, wood and earth"
+   "nayin_en": "Gold in the Sand"
   },
   {
    "ganzhi": "乙未",
@@ -1219,8 +1032,7 @@
    "arc": {
     "stage": 4,
     "branch_pair": "午未",
-    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見",
-    "label_en": "Revealed — fully formed; how a life has gone becomes visible"
+    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見"
    },
    "image": "爐炭餘金",
    "likes": "喜大火及土",
@@ -1242,14 +1054,9 @@
     "quotes": [
      "乙未偏庫之金亦火制而土生之則福壯氣聚忌己未丙申丁酉之火"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "metal in a side Storage"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Gold in the Sand",
-   "image_en": "metal left among furnace ashes",
-   "likes_en": "great fire, and earth"
+   "nayin_en": "Gold in the Sand"
   },
   {
    "ganzhi": "丙申",
@@ -1259,8 +1066,7 @@
    "arc": {
     "stage": 5,
     "branch_pair": "申酉",
-    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣",
-    "label_en": "Gathering in — harvest taken, drawing inward into quiet"
+    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣"
    },
    "image": "白茅野燒",
    "likes": "喜秋冬及木",
@@ -1282,14 +1088,9 @@
     "quotes": [
      "丙申自病之火丁酉自死之火其氣極微假木相助其氣方生忌甲申乙酉甲寅乙卯之水"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "fire at Weakening / at Stillness"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Fire at the Foothill",
-   "image_en": "wildfire through white grass",
-   "likes_en": "autumn, winter, and wood"
+   "nayin_en": "Fire at the Foothill"
   },
   {
    "ganzhi": "丁酉",
@@ -1299,8 +1100,7 @@
    "arc": {
     "stage": 5,
     "branch_pair": "申酉",
-    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣",
-    "label_en": "Gathering in — harvest taken, drawing inward into quiet"
+    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣"
    },
    "image": "鬼神之靈響火之無形者",
    "likes": "喜辰戌丑未",
@@ -1322,14 +1122,9 @@
     "quotes": [
      "丙申自病之火丁酉自死之火其氣極微假木相助其氣方生忌甲申乙酉甲寅乙卯之水"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "fire at Weakening / at Stillness"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Fire at the Foothill",
-   "image_en": "the echo of spirits; fire without form",
-   "likes_en": "辰 戌 丑 未"
+   "nayin_en": "Fire at the Foothill"
   },
   {
    "ganzhi": "戊戌",
@@ -1339,8 +1134,7 @@
    "arc": {
     "stage": 6,
     "branch_pair": "戌亥",
-    "quote": "陰陽閉塞物氣歸根人當休息各有歸著",
-    "label_en": "Closing — qi returns to the root; time to rest"
+    "quote": "陰陽閉塞物氣歸根人當休息各有歸著"
    },
    "image": "蒿艾之枯者",
    "likes": "喜火及春夏",
@@ -1363,14 +1157,9 @@
      "金不能克蓋金氣至戌而散",
      "利見水多木盛而為貴格"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "wood buried in earth"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Tree on Open Ground",
-   "image_en": "withered mugwort",
-   "likes_en": "fire, spring and summer"
+   "nayin_en": "Tree on Open Ground"
   },
   {
    "ganzhi": "己亥",
@@ -1380,8 +1169,7 @@
    "arc": {
     "stage": 6,
     "branch_pair": "戌亥",
-    "quote": "陰陽閉塞物氣歸根人當休息各有歸著",
-    "label_en": "Closing — qi returns to the root; time to rest"
+    "quote": "陰陽閉塞物氣歸根人當休息各有歸著"
    },
    "image": "蒿艾之茅",
    "likes": "喜水及春夏",
@@ -1406,14 +1194,9 @@
     "quotes": [
      "己亥自生之木根本繁盛不忌衆金惟嫌辛亥辛巳癸酉之金若見乙卯丁未水癸未木未有不大貴"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "wood at Birth"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Tree on Open Ground",
-   "image_en": "mugwort shoots",
-   "likes_en": "water, spring and summer"
+   "nayin_en": "Tree on Open Ground"
   },
   {
    "ganzhi": "庚子",
@@ -1423,8 +1206,7 @@
    "arc": {
     "stage": 1,
     "branch_pair": "子丑",
-    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際",
-    "label_en": "Conceived — held in the womb, roots not yet out"
+    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際"
    },
    "image": "土中空者屋宇也",
    "likes": "喜木及金木",
@@ -1443,14 +1225,9 @@
     "quotes": [
      "庚子厚徳之土能克衆水不忌他木蓋木至子無氣若遇壬申之金謂之明位祿"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "earth of deep virtue"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Earth on the Wall",
-   "image_en": "hollow earth: a house",
-   "likes_en": "wood, and metal with wood"
+   "nayin_en": "Earth on the Wall"
   },
   {
    "ganzhi": "辛丑",
@@ -1460,8 +1237,7 @@
    "arc": {
     "stage": 1,
     "branch_pair": "子丑",
-    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際",
-    "label_en": "Conceived — held in the womb, roots not yet out"
+    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際"
    },
    "image": "墳墓",
    "likes": "喜木及火與春",
@@ -1478,14 +1254,9 @@
     "quotes": [
      "辛丑福聚之土衆木不能克蓋丑為金庫"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "earth where fortune gathers"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Earth on the Wall",
-   "image_en": "a burial mound",
-   "likes_en": "wood, fire and spring"
+   "nayin_en": "Earth on the Wall"
   },
   {
    "ganzhi": "壬寅",
@@ -1495,8 +1266,7 @@
    "arc": {
     "stage": 2,
     "branch_pair": "寅卯",
-    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也",
-    "label_en": "Opening — growing, buds splitting, about to stand"
+    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也"
    },
    "image": "金之華飾者",
    "likes": "喜木及微火",
@@ -1516,14 +1286,9 @@
     "quotes": [
      "壬寅自絶之金癸卯氣散之金若見衆火則喪氣惟水土朝之則吉"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "metal at Void / with its qi scattered"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Gold Foil Metal",
-   "image_en": "ornamental metal",
-   "likes_en": "wood, and a little fire"
+   "nayin_en": "Gold Foil Metal"
   },
   {
    "ganzhi": "癸卯",
@@ -1533,8 +1298,7 @@
    "arc": {
     "stage": 2,
     "branch_pair": "寅卯",
-    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也",
-    "label_en": "Opening — growing, buds splitting, about to stand"
+    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也"
    },
    "image": "環鈕鈴鐸",
    "likes": "喜盛火及秋",
@@ -1558,15 +1322,9 @@
      "壬寅自絶之金癸卯氣散之金若見衆火則喪氣惟水土朝之則吉",
      "癸卯自胎之金若逢丙寅丁卯爐中之火不為鬼"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "metal at Void / with its qi scattered",
-     "metal at Conception"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Gold Foil Metal",
-   "image_en": "rings, buttons and bells",
-   "likes_en": "strong fire, and autumn"
+   "nayin_en": "Gold Foil Metal"
   },
   {
    "ganzhi": "甲辰",
@@ -1576,8 +1334,7 @@
    "arc": {
     "stage": 3,
     "branch_pair": "辰巳",
-    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象",
-    "label_en": "Flourishing — in bloom, the age of first standing and advancing"
+    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象"
    },
    "image": "燈也",
    "likes": "喜夜及水惡晝",
@@ -1602,14 +1359,9 @@
      "甲辰偏庫之火多火助之吉",
      "若見戊辰戊戌木生之為貴格忌壬辰壬戌丙午丁未水最毒"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "fire in a side Storage"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Sheltered Lamp Fire",
-   "image_en": "a lamp",
-   "likes_en": "night and water; dislikes day"
+   "nayin_en": "Sheltered Lamp Fire"
   },
   {
    "ganzhi": "乙巳",
@@ -1619,8 +1371,7 @@
    "arc": {
     "stage": 3,
     "branch_pair": "辰巳",
-    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象",
-    "label_en": "Flourishing — in bloom, the age of first standing and advancing"
+    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象"
    },
    "image": "燈光也同上",
    "likes": "尤喜申酉及秋",
@@ -1640,14 +1391,9 @@
     "quotes": [
      "乙巳臨官之火水不能克葢水絶於巳得水濟之則為純粹若得二三火助之亦佳"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "fire at Coming of Age"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Sheltered Lamp Fire",
-   "image_en": "the lamp's light",
-   "likes_en": "above all 申 酉 and autumn"
+   "nayin_en": "Sheltered Lamp Fire"
   },
   {
    "ganzhi": "丙午",
@@ -1657,8 +1403,7 @@
    "arc": {
     "stage": 4,
     "branch_pair": "午未",
-    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見",
-    "label_en": "Revealed — fully formed; how a life has gone becomes visible"
+    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見"
    },
    "image": "月輪",
    "likes": "喜夜及秋水旺也",
@@ -1675,14 +1420,9 @@
     "quotes": [
      "丙午丁未銀漢之水土不能克天上之水地金不能生也"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "water of the Milky Way"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Water of the Milky Way",
-   "image_en": "the disc of the moon",
-   "likes_en": "night and autumn, when water is strong"
+   "nayin_en": "Water of the Milky Way"
   },
   {
    "ganzhi": "丁未",
@@ -1692,8 +1432,7 @@
    "arc": {
     "stage": 4,
     "branch_pair": "午未",
-    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見",
-    "label_en": "Revealed — fully formed; how a life has gone becomes visible"
+    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見"
    },
    "image": "火光也同上",
    "likes": "",
@@ -1710,14 +1449,9 @@
     "quotes": [
      "丙午丁未銀漢之水土不能克天上之水地金不能生也"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "water of the Milky Way"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Water of the Milky Way",
-   "image_en": "light (as above)",
-   "likes_en": "(as above)"
+   "nayin_en": "Water of the Milky Way"
   },
   {
    "ganzhi": "戊申",
@@ -1727,8 +1461,7 @@
    "arc": {
     "stage": 5,
     "branch_pair": "申酉",
-    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣",
-    "label_en": "Gathering in — harvest taken, drawing inward into quiet"
+    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣"
    },
    "image": "秋間田地",
    "likes": "喜申酉及火",
@@ -1748,14 +1481,9 @@
     "quotes": [
      "戊申重阜之土木絶於申不能克若見金水多助則富貴尊榮之格也"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "earth heaped in hills"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Great Road Earth",
-   "image_en": "fields in autumn",
-   "likes_en": "申 酉, and fire"
+   "nayin_en": "Great Road Earth"
   },
   {
    "ganzhi": "己酉",
@@ -1765,8 +1493,7 @@
    "arc": {
     "stage": 5,
     "branch_pair": "申酉",
-    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣",
-    "label_en": "Gathering in — harvest taken, drawing inward into quiet"
+    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣"
    },
    "image": "秋間禾稼",
    "likes": "喜申酉及冬",
@@ -1787,14 +1514,9 @@
     "quotes": [
      "己酉自敗之土其氣不足藉火以相助之見丁卯丁酉火則吉切忌死絶畏辛卯辛酉木"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "earth at Bath"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Great Road Earth",
-   "image_en": "autumn crops",
-   "likes_en": "申 酉, and winter"
+   "nayin_en": "Great Road Earth"
   },
   {
    "ganzhi": "庚戌",
@@ -1804,8 +1526,7 @@
    "arc": {
     "stage": 6,
     "branch_pair": "戌亥",
-    "quote": "陰陽閉塞物氣歸根人當休息各有歸著",
-    "label_en": "Closing — qi returns to the root; time to rest"
+    "quote": "陰陽閉塞物氣歸根人當休息各有歸著"
    },
    "image": "刃劒之餘",
    "likes": "喜微火及木",
@@ -1825,14 +1546,9 @@
     "quotes": [
      "庚戌辛亥堅成之金不可見火恐有所傷若得水土相之為貴"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "hardened, finished metal"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Hairpin and Bracelet Metal",
-   "image_en": "what remains of blades",
-   "likes_en": "a little fire, and wood"
+   "nayin_en": "Hairpin and Bracelet Metal"
   },
   {
    "ganzhi": "辛亥",
@@ -1842,8 +1558,7 @@
    "arc": {
     "stage": 6,
     "branch_pair": "戌亥",
-    "quote": "陰陽閉塞物氣歸根人當休息各有歸著",
-    "label_en": "Closing — qi returns to the root; time to rest"
+    "quote": "陰陽閉塞物氣歸根人當休息各有歸著"
    },
    "image": "鐘鼎寶物",
    "likes": "喜木火及土",
@@ -1863,14 +1578,9 @@
     "quotes": [
      "庚戌辛亥堅成之金不可見火恐有所傷若得水土相之為貴"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "hardened, finished metal"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Hairpin and Bracelet Metal",
-   "image_en": "bells, cauldrons and treasures",
-   "likes_en": "wood, fire and earth"
+   "nayin_en": "Hairpin and Bracelet Metal"
   },
   {
    "ganzhi": "壬子",
@@ -1880,8 +1590,7 @@
    "arc": {
     "stage": 1,
     "branch_pair": "子丑",
-    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際",
-    "label_en": "Conceived — held in the womb, roots not yet out"
+    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際"
    },
    "image": "傷水多之木",
    "likes": "喜火土及夏",
@@ -1902,14 +1611,9 @@
      "壬子專位之木癸丑偏庫之木",
      "水多則夭折金多土盛為佳"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "wood in its own seat / in a side Storage"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Mulberry Wood",
-   "image_en": "wood harmed by too much water",
-   "likes_en": "fire, earth and summer"
+   "nayin_en": "Mulberry Wood"
   },
   {
    "ganzhi": "癸丑",
@@ -1919,8 +1623,7 @@
    "arc": {
     "stage": 1,
     "branch_pair": "子丑",
-    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際",
-    "label_en": "Conceived — held in the womb, roots not yet out"
+    "quote": "陰陽始孕人在胞胎物藏荄根未有涯際"
    },
    "image": "傷水少之木",
    "likes": "喜金水及秋",
@@ -1941,14 +1644,9 @@
      "壬子專位之木癸丑偏庫之木",
      "水多則夭折金多土盛為佳"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "wood in its own seat / in a side Storage"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Mulberry Wood",
-   "image_en": "wood harmed by too little water",
-   "likes_en": "metal, water and autumn"
+   "nayin_en": "Mulberry Wood"
   },
   {
    "ganzhi": "甲寅",
@@ -1958,8 +1656,7 @@
    "arc": {
     "stage": 2,
     "branch_pair": "寅卯",
-    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也",
-    "label_en": "Opening — growing, buds splitting, about to stand"
+    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也"
    },
    "image": "雨也",
    "likes": "喜夏及火",
@@ -1980,14 +1677,9 @@
      "甲寅自病之水乙卯自死之水雖然死病土不能克",
      "若見壬寅癸卯之金則為優裕"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "water at Weakening / at Stillness"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Water of the Great Stream",
-   "image_en": "rain",
-   "likes_en": "summer, and fire"
+   "nayin_en": "Water of the Great Stream"
   },
   {
    "ganzhi": "乙卯",
@@ -1997,8 +1689,7 @@
    "arc": {
     "stage": 2,
     "branch_pair": "寅卯",
-    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也",
-    "label_en": "Opening — growing, buds splitting, about to stand"
+    "quote": "陰陽漸闢人漸生長物以拆甲羣葩漸剖如人將有立身也"
    },
    "image": "露也",
    "likes": "喜水及火",
@@ -2019,14 +1710,9 @@
      "甲寅自病之水乙卯自死之水雖然死病土不能克",
      "若見壬寅癸卯之金則為優裕"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "water at Weakening / at Stillness"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Water of the Great Stream",
-   "image_en": "dew",
-   "likes_en": "water and fire"
+   "nayin_en": "Water of the Great Stream"
   },
   {
    "ganzhi": "丙辰",
@@ -2036,8 +1722,7 @@
    "arc": {
     "stage": 3,
     "branch_pair": "辰巳",
-    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象",
-    "label_en": "Flourishing — in bloom, the age of first standing and advancing"
+    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象"
    },
    "image": "堤岸",
    "likes": "喜金及木",
@@ -2062,14 +1747,9 @@
      "丙辰自庫之土厚且壯喜甲辰火惡戊辰木此土凡木不能傷",
      "惟嫌戊戌己亥辛卯戊辰之木"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "earth in its own Storage"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Earth in the Sand",
-   "image_en": "embankment",
-   "likes_en": "metal and wood"
+   "nayin_en": "Earth in the Sand"
   },
   {
    "ganzhi": "丁巳",
@@ -2079,8 +1759,7 @@
    "arc": {
     "stage": 3,
     "branch_pair": "辰巳",
-    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象",
-    "label_en": "Flourishing — in bloom, the age of first standing and advancing"
+    "quote": "陰陽氣盛物當華秀如人三十四十而有立身之地始有進取之象"
    },
    "image": "土之沮涚",
    "likes": "喜火及西北",
@@ -2100,14 +1779,9 @@
      "丁巳自絶之土又不為絶",
      "木不能克火多益佳"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "earth at Void"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Earth in the Sand",
-   "image_en": "marshy earth",
-   "likes_en": "fire, and the northwest"
+   "nayin_en": "Earth in the Sand"
   },
   {
    "ganzhi": "戊午",
@@ -2117,8 +1791,7 @@
    "arc": {
     "stage": 4,
     "branch_pair": "午未",
-    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見",
-    "label_en": "Revealed — fully formed; how a life has gone becomes visible"
+    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見"
    },
    "image": "日輪",
    "likes": "夏則人畏冬則人愛忌戊子己丑甲寅乙卯",
@@ -2138,14 +1811,9 @@
     "quotes": [
      "戊午自旺之火己未偏庫之火居離明之方旺相之地其氣極盛他水無傷忌丙午丁未天上之水"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "fire at Prime / in a side Storage"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Fire in the Sky",
-   "image_en": "the disc of the sun",
-   "likes_en": "feared in summer, loved in winter; avoids 戊子 己丑 甲寅 乙卯"
+   "nayin_en": "Fire in the Sky"
   },
   {
    "ganzhi": "己未",
@@ -2155,8 +1823,7 @@
    "arc": {
     "stage": 4,
     "branch_pair": "午未",
-    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見",
-    "label_en": "Revealed — fully formed; how a life has gone becomes visible"
+    "quote": "陰陽彰露物己成齊人至五十六十富貴貧賤可知凡百興衰可見"
    },
    "image": "日光",
    "likes": "忌夜亦畏四者",
@@ -2176,14 +1843,9 @@
     "quotes": [
      "戊午自旺之火己未偏庫之火居離明之方旺相之地其氣極盛他水無傷忌丙午丁未天上之水"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "fire at Prime / in a side Storage"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Fire in the Sky",
-   "image_en": "sunlight",
-   "likes_en": "avoids night, and fears the same four"
+   "nayin_en": "Fire in the Sky"
   },
   {
    "ganzhi": "庚申",
@@ -2193,8 +1855,7 @@
    "arc": {
     "stage": 5,
     "branch_pair": "申酉",
-    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣",
-    "label_en": "Gathering in — harvest taken, drawing inward into quiet"
+    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣"
    },
    "image": "榴花",
    "likes": "喜夏不宜秋冬",
@@ -2214,14 +1875,9 @@
     "quotes": [
      "庚申辛酉二木金居木上因金以成器忌再見金致毁其器若見甲申乙酉水則入格"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "metal sitting over wood"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Pomegranate Wood",
-   "image_en": "pomegranate flower",
-   "likes_en": "summer; autumn and winter do not suit"
+   "nayin_en": "Pomegranate Wood"
   },
   {
    "ganzhi": "辛酉",
@@ -2231,8 +1887,7 @@
    "arc": {
     "stage": 5,
     "branch_pair": "申酉",
-    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣",
-    "label_en": "Gathering in — harvest taken, drawing inward into quiet"
+    "quote": "陰陽肅殺物已收成人已龜縮各得其靜矣"
    },
    "image": "榴子",
    "likes": "喜秋及夏",
@@ -2252,14 +1907,9 @@
     "quotes": [
      "庚申辛酉二木金居木上因金以成器忌再見金致毁其器若見甲申乙酉水則入格"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "metal sitting over wood"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Pomegranate Wood",
-   "image_en": "pomegranate seeds",
-   "likes_en": "autumn and summer"
+   "nayin_en": "Pomegranate Wood"
   },
   {
    "ganzhi": "壬戌",
@@ -2269,8 +1919,7 @@
    "arc": {
     "stage": 6,
     "branch_pair": "戌亥",
-    "quote": "陰陽閉塞物氣歸根人當休息各有歸著",
-    "label_en": "Closing — qi returns to the root; time to rest"
+    "quote": "陰陽閉塞物氣歸根人當休息各有歸著"
    },
    "image": "海也",
    "likes": "喜春夏及木",
@@ -2290,14 +1939,9 @@
      "壬戌偏庫之水癸亥臨官之水名曰大海水蓋支干納音皆水忌見衆水",
      "不忌他土"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "water in a side Storage / water at Coming of Age"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Water of the Great Sea",
-   "image_en": "the sea",
-   "likes_en": "spring, summer, and wood"
+   "nayin_en": "Water of the Great Sea"
   },
   {
    "ganzhi": "癸亥",
@@ -2307,8 +1951,7 @@
    "arc": {
     "stage": 6,
     "branch_pair": "戌亥",
-    "quote": "陰陽閉塞物氣歸根人當休息各有歸著",
-    "label_en": "Closing — qi returns to the root; time to rest"
+    "quote": "陰陽閉塞物氣歸根人當休息各有歸著"
    },
    "image": "百川",
    "likes": "喜金土火",
@@ -2328,14 +1971,9 @@
      "壬戌偏庫之水癸亥臨官之水名曰大海水蓋支干納音皆水忌見衆水",
      "不忌他土"
     ],
-    "textual_notes": [],
-    "state_en": [
-     "water in a side Storage / water at Coming of Age"
-    ]
+    "textual_notes": []
    },
-   "nayin_en": "Water of the Great Sea",
-   "image_en": "a hundred rivers",
-   "likes_en": "metal, earth and fire"
+   "nayin_en": "Water of the Great Sea"
   }
  ],
  "nayin_chapters": {
