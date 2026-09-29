@@ -143,6 +143,9 @@ The calculator this dataset comes from corrects for all three. How the correctio
 works, with a city-by-city table:
 **[True solar time, explained →](https://auspiceoracle.com/en/content/true-solar-time)**
 
+To see which pillars (and nayin) your own birth time lands on, with the correction applied:
+**[Free BaZi calculator →](https://auspiceoracle.com/en/chart)**
+
 ## License & attribution
 
 Data and translations are **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**
